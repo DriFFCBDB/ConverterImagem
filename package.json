@@ -1,0 +1,23 @@
+{
+  "name": "converterimg",
+  "version": "1.0.0",
+  "description": "Converter imagens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrielliWorks/converterimg.git"
+  },
+  "keywords": [
+    "imagem",
+    "converter"
+  ],
+  "author": "Adrielli B. Menghi Hirano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrielliWorks/converterimg/issues"
+  },
+  "homepage": "https://github.com/AdrielliWorks/converterimg#readme"
+}
